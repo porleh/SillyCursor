@@ -8,7 +8,7 @@ surely this is a good instruction:
 - make sure you have [python 3.6](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe) and set in your python settings
 - open your cmd and run 'pip3.6 install pyautogui'
 - create a new scene
-- create a new image source in this scene (make sure its 1:1 and you know the px
+- create a new image source in this scene (make sure its 1:1 and you know the px)
 - add the script
 - do your settings
 
